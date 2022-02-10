@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top 10 Movies</string>
+    <string name="api_base_url">https://api.themoviedb.org/</string>
+    <string name="api_key">d32c2f790ab801a03e5edbe289a9a1f0</string>
+    <string name="overview">Overview</string>
+    <string name="close">Close</string>
+    <string name="playtime_minutes">min</string>
+    <string name="load_movies_error">Failed to load movies!\nPlease make sure that you are connected to the internet!</string>
+</resources>
