@@ -3,7 +3,7 @@ package com.simon.top10movies.ui.viewmodel
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.simon.top10movies.data.repositoryy.MovieDbRepo
+import com.simon.top10movies.data.repository.MovieDbRepo
 import com.simon.top10movies.data.model.Movie
 import com.simon.top10movies.data.model.ResultPage
 import com.simon.top10movies.utils.Resource

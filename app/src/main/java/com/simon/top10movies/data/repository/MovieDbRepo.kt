@@ -1,4 +1,4 @@
-package com.simon.top10movies.data.repositoryy
+package com.simon.top10movies.data.repository
 
 import com.simon.top10movies.data.api.RetrofitBuilder
 import com.simon.top10movies.data.model.Movie

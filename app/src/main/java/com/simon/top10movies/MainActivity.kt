@@ -8,7 +8,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.simon.top10movies.data.repositoryy.MovieDbRepo
+import com.simon.top10movies.data.repository.MovieDbRepo
 import com.simon.top10movies.ui.adapter.MovieAdapter
 import com.simon.top10movies.ui.viewmodel.MovieViewModel
 import com.simon.top10movies.ui.base.MovieViewModelFactory
